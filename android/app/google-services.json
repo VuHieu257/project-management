@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12108652905",
+    "project_id": "manager-task-4bd60",
+    "storage_bucket": "manager-task-4bd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12108652905:android:8c6a2c8c6936b2b82e1df8",
+        "android_client_info": {
+          "package_name": "com.example.quanly_duan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwacakQbI7UdT6gyx5_RPTQ-I6EkZ3SZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
